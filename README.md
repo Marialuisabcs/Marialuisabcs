@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maria Luísa</h1>
-<h3 align="center">A software engineer student from Brazil. Passionate about tech, programming and leaning new skills.</h3>
+<h3 align="center">A software engineer student from Brazil. Passionate about tech, programming and learning new skills.</h3>
 
 - 🔭 I’m currently working on [scopus-crawler](https://github.com/Marialuisabcs/scopus-crawler.git)
 
