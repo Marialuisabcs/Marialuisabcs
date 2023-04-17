@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Maria Luísa</h1>
 <h3 align="center">A software engineer student from Brazil. Passionate about tech, programming and learning new skills.</h3>
 
-- 🔭 I’m currently working on [scopus-crawler](https://github.com/Marialuisabcs/scopus-crawler.git)
-
-- 🌱 I’m currently learning **Vue.js** and **FastAPI**
+- 🔭 I’m currently working on my master's degree in computer science.
+- 🌱 I’m currently learning text mining algorithms and models.
 
 - 📫 How to reach me **maria.lbcs@icloud.com**
 
