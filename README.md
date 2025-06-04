@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maria Luísa</h1>
-<h3 align="center">A software engineer from Brazil with a Master's degree in Computer Science. Currently working as a Database Administrator (DBA) for a state court in the legal sector. Passionate about technology, programming, and continuous learning.</h3>
+<h4 align="center">A software engineer from Brazil with a Master's degree in Computer Science. Currently working as a Database Administrator (DBA) for a state court in the legal sector. Passionate about technology, programming, and continuous learning.</h3>
 
 - 🔭 I’m currently working on ehancing my knowledge on MLOps, Networking and Linux systems. 
 
